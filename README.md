@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kristianblais
-- I'm currently a Masters Student at UBC completing my MScB in Transportation Economics and Logistics
+- I'm currently a Research Fellow at Harvard Business School
 - I am interested in both urban and transportation economics, particularly the intersection of the two
-- I love trains and transit systems so hmu if you wanna talk about that stuff
 - You can follow me on Twitter @kristianblais
 
 <!---
