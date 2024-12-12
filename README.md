@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kristianblais
+👋 Hi, I’m @kristianblais
 - I'm currently a Research Fellow at Harvard Business School
 - I am interested in both urban and transportation economics, particularly the intersection of the two
 - You can follow me on Twitter @kristianblais
